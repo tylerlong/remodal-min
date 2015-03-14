@@ -10,6 +10,7 @@
     "remodal"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/tylerlong/remodal-min",
   "ignore": [
     "**/.*",
     "node_modules",
